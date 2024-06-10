@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+background-color: #202e6e;
+}
+p{
+  color:#e9cbf7;
+  font-size: 80px;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 30px;
+}
+.conten1{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.conten1 img {
+  height: 100px;
+}
+.pastel{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.pastel img {
+  height: 400px;
+}
+.conten2{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.conten2 img {
+  height: 100px;
+}
